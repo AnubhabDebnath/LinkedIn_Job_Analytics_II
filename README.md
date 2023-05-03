@@ -16,7 +16,6 @@ This continuation of our previous project had its own new set of problems. We ha
 # <img src="https://media.tenor.com/wvFShvObfuIAAAAi/curiouspiyuesh-piyuesh-modi.gif" width="48" height="48"> **Steps Involved**
 
 There were a few steps involved bofore we got to the analysis part which are as follows:
-
     1. Pullin Data from LinkedIn - Scraped data from LinkedIn again with the help of python libraries i.e Selenium Webdriver and BeautifulSoup as we wanted a            bigger dataset to work with this time.
     2. Cleaning - Cleaned the data using excel, removing irrelevant columns, rows and other noise values.
     3. Adding new column - Processing Job Description in NLP, extracting skills from job description and finally adding "skills" column.
