@@ -9,18 +9,18 @@ In this depository we had to make the second stage of out prior project on linke
 # <img src="https://media.tenor.com/3yhRZ20Z0dUAAAAi/vinesauce-joel.gif" weight="48" height="48"> **Problems Faced**
 
 This continuation of our previous project had its own new set of problems. We had to learn a new package - NLP(Natural Language Processing) in python which again we never came across prior to this. Then again, we had to make a webpage which none of us had made before using HTML and CSS. Even after all that there was a huge problem with making the search bar correct spelling errors from the user input. Still we managed to solve all these problems and more.
-    1. Adding a new column "skills" to our old dataset using NLP.
-    2. Text processing of user input and making model capable of rectifying spelling errors and can show related results.
-    3. Creating a backend with flask and returning output to webpage.
+1. Adding a new column "skills" to our old dataset using NLP.
+2. Text processing of user input and making model capable of rectifying spelling errors and can show related results.
+3. Creating a backend with flask and returning output to webpage.
     
 # <img src="https://media.tenor.com/wvFShvObfuIAAAAi/curiouspiyuesh-piyuesh-modi.gif" width="48" height="48"> **Steps Involved**
 
 There were a few steps involved bofore we got to the analysis part which are as follows-
-    1. Pullin Data from LinkedIn - Scraped data from LinkedIn again with the help of python libraries i.e Selenium Webdriver and BeautifulSoup as we wanted a            bigger dataset to work with this time.
-    2. Cleaning - Cleaned the data using excel, removing irrelevant columns, rows and other noise values.
-    3. Adding new column - Processing Job Description in NLP, extracting skills from job description and finally adding "skills" column.
-    4. Data Preprocessing - Handling missing, null and duplicate values. Removing outliers from features.
-    5. Building ML model - Using the KMeans algorithm made the ML model.
+1. Pullin Data from LinkedIn - Scraped data from LinkedIn again with the help of python libraries i.e Selenium Webdriver and BeautifulSoup as we wanted a            bigger dataset to work with this time.
+2. Cleaning - Cleaned the data using excel, removing irrelevant columns, rows and other noise values.
+3. Adding new column - Processing Job Description in NLP, extracting skills from job description and finally adding "skills" column.
+4. Data Preprocessing - Handling missing, null and duplicate values. Removing outliers from features.
+5. Building ML model - Using the KMeans algorithm made the ML model.
     
 # <img src="https://media.tenor.com/K8DuFxJuF50AAAAi/goal-circle.gif" width="48" height="48"> **Insights**
 
