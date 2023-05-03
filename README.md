@@ -17,21 +17,24 @@ This continuation of our previous project had its own new set of problems. We ha
 
 There were a few steps involved bofore we got to the analysis part which are as follows:
 
-    1. Pullin Data from LinkedIn - Scraped data from LinkedIn again with the help of python libraries i.e Selenium Webdriver and BeautifulSoup as we wanted a bigger dataset to work with this time.
+    1. Pullin Data from LinkedIn - Scraped data from LinkedIn again with the help of python libraries i.e Selenium Webdriver and BeautifulSoup as we wanted a            bigger dataset to work with this time.
     2. Cleaning - Cleaned the data using excel, removing irrelevant columns, rows and other noise values.
     3. Adding new column - Processing Job Description in NLP, extracting skills from job description and finally adding "skills" column.
     4. Data Preprocessing - Handling missing, null and duplicate values. Removing outliers from features.
     5. Building ML model - Using the KMeans algorithm made the ML model.
     
-<img src="https://media.tenor.com/K8DuFxJuF50AAAAi/goal-circle.gif" width="48" height="48"> **Insights**
+# <img src="https://media.tenor.com/K8DuFxJuF50AAAAi/goal-circle.gif" width="48" height="48"> **Insights**
+
 
 ![Screenshot 2](https://user-images.githubusercontent.com/110715196/236049737-cb3cbd8f-d203-43f7-9690-a59c03dbb322.png)
 
 Here we used the elbow method to find the optimum number of clusters which came out to be 4.
 
+
 ![Screenshot 3](https://user-images.githubusercontent.com/110715196/236050212-e16334cd-c77a-4357-bc21-a95a3ccf32ce.png)
 
 3D scatter plot of the clusters
+
 
 ![Screenshot 4](https://user-images.githubusercontent.com/110715196/236050370-9bb34408-557c-46a8-b515-f17694542018.png)
 
