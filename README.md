@@ -1,6 +1,6 @@
 # <img src="https://media.tenor.com/2ZexrTx-QSQAAAAC/linkedin.gif" width="48" height="48"> **Introduction**
 
-In this depository we had to make the second stage of out prior project on linkedIn which was making a usuable search bar to search for job skills. The output given by the page would contain count, industry, seniority level and class which contained that particular skill and also show the table when asked for. We not only successfully made a search bar which can get the output for the relevent skills, we also made it so that if you type in a skill with spelling errors, it would simply get the closest search term and replace it with the wrong input.
+In this depository we had to make the second stage of our prior project on linkedIn which was making a usuable search bar to search for job skills. The output given by the page would contain count, industry, seniority level and class which contained that particular skill and also show the table when asked for. We not only successfully made a search bar which can get the output for the relevent skills, we also made it so that if you type in a skill with spelling errors, it would simply get the closest search term and replace it with the wrong input.
 
 ![image](https://media.tenor.com/Y9pvgO_jITsAAAAC/business-card-career.gif)
 
