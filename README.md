@@ -12,6 +12,11 @@ This continuation of our previous project had its own new set of problems. We ha
 1. Adding a new column "skills" to our old dataset using NLP.
 2. Text processing of user input and making model capable of rectifying spelling errors and can show related results.
 3. Creating a backend with flask and returning output to webpage.
+
+# <img src="https://media.tenor.com/Ay5KbGo9bLAAAAAC/hammer-and-wrench-objects.gif" weight="48" height="48"> **Tools Used**
+
+![image](https://github.com/AnubhabDebnath/LinkedIn_Job_Analytics_II/assets/110715196/eff17d7e-832d-4248-8acd-872549896774)
+
     
 # <img src="https://media.tenor.com/wvFShvObfuIAAAAi/curiouspiyuesh-piyuesh-modi.gif" width="48" height="48"> **Steps Involved**
 
