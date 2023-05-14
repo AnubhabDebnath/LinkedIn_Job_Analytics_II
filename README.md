@@ -6,12 +6,6 @@ In this depository we had to make the second stage of our prior project on linke
 
 
 
-# <img src="https://media.tenor.com/3yhRZ20Z0dUAAAAi/vinesauce-joel.gif" weight="48" height="48"> **Problems Faced**
-
-This continuation of our previous project had its own new set of problems. We had to learn a new package - NLP(Natural Language Processing) in python which again we never came across prior to this. Then again, we had to make a webpage which none of us had made before using HTML and CSS. Even after all that there was a huge problem with making the search bar correct spelling errors from the user input. Still we managed to solve all these problems and more.
-1. Adding a new column "skills" to our old dataset using NLP.
-2. Text processing of user input and making model capable of rectifying spelling errors and can show related results.
-3. Creating a backend with flask and returning output to webpage.
 
 # <img src="https://media.tenor.com/Ay5KbGo9bLAAAAAC/hammer-and-wrench-objects.gif" weight="48" height="48"> **Tools Used**
 
@@ -42,10 +36,39 @@ Here we used the elbow method to find the optimum number of clusters which came 
 3D scatter plot of the clusters
 
 
-
 ![Screenshot 4](https://user-images.githubusercontent.com/110715196/236050370-9bb34408-557c-46a8-b515-f17694542018.png)
 
 A look into our search bar which gives out the required output whenever the user types in the skill or multiple skills, it also automatically corrects the spelling errors if their are any.
+
+# <img src="https://media.tenor.com/3yhRZ20Z0dUAAAAi/vinesauce-joel.gif" weight="48" height="48"> **Problems Faced**
+
+This continuation of our previous project had its own new set of problems. We had to learn a new package - NLP(Natural Language Processing) in python which again we never came across prior to this. Then again, we had to make a webpage which none of us had made before using HTML and CSS. Even after all that there was a huge problem with making the search bar correct spelling errors from the user input. Still we managed to solve all these problems and more.
+1. Adding a new column "skills" to our old dataset using NLP.
+2. Text processing of user input and making model capable of rectifying spelling errors and can show related results.
+3. Creating a backend with flask and returning output to webpage.
+
+
+
+
+# <img src="https://media.tenor.com/F02KJwYr6yYAAAAC/conclusion-the-band-conclusion-bd.gif" weight="48" height="48"> **Conclusion**
+
+After spending a lot of time with this project we came to a few pointers as conclusion:
+   1. Most of the jobs belong to the IT sector.
+   2. Most of the companies are in class 2.
+   3. The user interference can be made a bit more appealing but due to time constraints we could not make it.
+ 
+ 
+ 
+
+# <img src="https://media.tenor.com/i8gF6Y8Q7CAAAAAi/luxury-tata-cliq-luxury.gif" weight="48" height="48"> **Future Scope**
+
+The project can be made in a much more refined way if it is made in the future. In case that happens, a few pointers can be looked upon:
+    1. Use of python instead of excel for the data cleaning part for more accuracy and overall lesser time spent on cleaning.
+    2. Separate tool for visualizations, the use of power bi is recommended.
+    3. Accuaracy can be increased by improving the text processing.
+
+
+
 
     
     
