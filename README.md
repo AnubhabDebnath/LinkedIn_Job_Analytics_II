@@ -38,7 +38,7 @@ Here we used the elbow method to find the optimum number of clusters which came 
 
 ![Screenshot 4](https://user-images.githubusercontent.com/110715196/236050370-9bb34408-557c-46a8-b515-f17694542018.png)
 
-A look into our search bar which gives out the required output whenever the user types in the skill or multiple skills, it also automatically corrects the spelling errors if their are any.
+A look into our search bar which gives out the required output whenever the user types in the skill or multiple skills, it also automatically corrects the spelling errors if there are any.
 
 # <img src="https://media.tenor.com/3yhRZ20Z0dUAAAAi/vinesauce-joel.gif" weight="48" height="48"> **Problems Faced**
 
