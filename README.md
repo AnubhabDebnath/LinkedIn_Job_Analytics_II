@@ -53,9 +53,9 @@ This continuation of our previous project had its own new set of problems. We ha
 # <img src="https://media.tenor.com/F02KJwYr6yYAAAAC/conclusion-the-band-conclusion-bd.gif" weight="48" height="48"> **Conclusion**
 
 After spending a lot of time with this project we came to a few pointers as conclusion:
-   1. Most of the jobs belong to the IT sector.
-   2. Most of the companies are in class 2.
-   3. The user interference can be made a bit more appealing but due to time constraints we could not make it.
+1. Most of the jobs belong to the IT sector.
+2. Most of the companies are in class 2.
+3. The user interference can be made a bit more appealing but due to time constraints we could not make it.
  
  
  
@@ -63,9 +63,9 @@ After spending a lot of time with this project we came to a few pointers as conc
 # <img src="https://media.tenor.com/i8gF6Y8Q7CAAAAAi/luxury-tata-cliq-luxury.gif" weight="48" height="48"> **Future Scope**
 
 The project can be made in a much more refined way if it is made in the future. In case that happens, a few pointers can be looked upon:
-    1. Use of python instead of excel for the data cleaning part for more accuracy and overall lesser time spent on cleaning.
-    2. Separate tool for visualizations, the use of power bi is recommended.
-    3. Accuaracy can be increased by improving the text processing.
+1. Use of python instead of excel for the data cleaning part for more accuracy and overall lesser time spent on cleaning.
+2. Separate tool for visualizations, the use of power bi is recommended.
+3. Accuaracy can be increased by improving the text processing.
 
 
 
