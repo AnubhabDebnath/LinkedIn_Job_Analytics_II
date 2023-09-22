@@ -42,10 +42,8 @@ A look into our search bar which gives out the required output whenever the user
 
 # <img src="https://media.tenor.com/3yhRZ20Z0dUAAAAi/vinesauce-joel.gif" weight="48" height="48"> **Problems Faced**
 
-This continuation of our previous project had its own new set of problems. We had to learn a new package - NLP(Natural Language Processing) in python which again we never came across prior to this. Then again, we had to make a webpage which none of us had made before using HTML and CSS. Even after all that there was a huge problem with making the search bar correct spelling errors from the user input. Still we managed to solve all these problems and more.
-1. Adding a new column "skills" to our old dataset using NLP.
-2. Text processing of user input and making model capable of rectifying spelling errors and can show related results.
-3. Creating a backend with flask and returning output to webpage.
+We faced several new challenges in this project. Firstly, we had to learn a new package called NLP (Natural Language Processing) in Python, which we had never come across before. Secondly, we had to create a webpage using HTML and CSS, which none of us had done before. Even after all that, there was a huge problem with making the search bar correct spelling errors from the user input. However, we managed to solve all these problems and more. We added a new column called “skills” to our old dataset using NLP. We also processed the user input text and made the model capable of rectifying spelling errors and showing related results. Finally, we created a backend with Flask and returned the output to the webpage.
+
 
 
 
