@@ -15,7 +15,7 @@ In this depository we had to make the second stage of our prior project on linke
 
 # <img src="https://media.tenor.com/wvFShvObfuIAAAAi/curiouspiyuesh-piyuesh-modi.gif" width="48" height="48"> **Problems Aimed to be Solved**
 
-make it more descriptive: The initial problem that needed to be solved was making the search bar which could go through the database and get the results required. We also needed to make a working webpage. Which none of us had done till now using HTML and CSS. The last problem was to make the search bar in such a way that whenever someone makes a mistake typing, it would autocorrect the word and then seach.
+
 The initial challenge we faced was the development of a search bar capable of querying our database and retrieving the necessary results. This search bar was not just a simple query tool; it needed to be intelligent enough to autocorrect any typing errors made by the user, ensuring that the search process remained seamless and efficient.
 
 In addition to this, we were tasked with creating a fully functional webpage. This was a new experience for our team as none of us had previously built a webpage using HTML and CSS. This required us to quickly learn and apply these languages, adding another layer of complexity to our project.
