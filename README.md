@@ -11,11 +11,23 @@ In this depository we had to make the second stage of our prior project on linke
 
 ![image](https://github.com/AnubhabDebnath/LinkedIn_Job_Analytics_II/assets/110715196/eff17d7e-832d-4248-8acd-872549896774)
 
+
+
+# <img src="https://media.tenor.com/wvFShvObfuIAAAAi/curiouspiyuesh-piyuesh-modi.gif" width="48" height="48"> **Problems Aimed to be Solved**
+
+make it more descriptive: The initial problem that needed to be solved was making the search bar which could go through the database and get the results required. We also needed to make a working webpage. Which none of us had done till now using HTML and CSS. The last problem was to make the search bar in such a way that whenever someone makes a mistake typing, it would autocorrect the word and then seach.
+The initial challenge we faced was the development of a search bar capable of querying our database and retrieving the necessary results. This search bar was not just a simple query tool; it needed to be intelligent enough to autocorrect any typing errors made by the user, ensuring that the search process remained seamless and efficient.
+
+In addition to this, we were tasked with creating a fully functional webpage. This was a new experience for our team as none of us had previously built a webpage using HTML and CSS. This required us to quickly learn and apply these languages, adding another layer of complexity to our project.
+
+To summarize, our project involved two main components: the development of an intelligent search bar and the creation of a webpage. The search bar needed to be capable of querying a database and autocorrecting user errors, while the webpage required us to learn and apply HTML and CSS. These challenges pushed us to expand our skills and deliver a product that met all the requirements.
+
+
     
 # <img src="https://media.tenor.com/wvFShvObfuIAAAAi/curiouspiyuesh-piyuesh-modi.gif" width="48" height="48"> **Steps Involved**
 
 There were a few steps involved bofore we got to the analysis part which are as follows-
-1. Pullin Data from LinkedIn - Scraped data from LinkedIn again with the help of python libraries i.e Selenium Webdriver and BeautifulSoup as we wanted a            bigger dataset to work with this time.
+1. Pullin Data from LinkedIn - Scraped data from LinkedIn again with the help of python libraries i.e Selenium Webdriver and BeautifulSoup as we wanted a bigger dataset to work with this time.
 2. Cleaning - Cleaned the data using excel, removing irrelevant columns, rows and other noise values.
 3. Adding new column - Processing Job Description in NLP, extracting skills from job description and finally adding "skills" column.
 4. Data Preprocessing - Handling missing, null and duplicate values. Removing outliers from features.
